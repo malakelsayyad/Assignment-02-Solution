@@ -3,7 +3,7 @@
     internal class Program
     {
         static void Main(string[] args)
-        {
+        { 
             #region String Formatting
             //String Formatting
             //Equation : 4+3 =7 
